@@ -66,7 +66,7 @@ params:
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: ExampleSite
+    title: Stay hungry, stay foolish
     subtitle: "Hi there \U0001F44B"
     imageUrl: "/avatar.png"
     imageWidth: 150
@@ -101,7 +101,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/dayfixer/content"
+    URL: "https://github.com/dayfixer/dayfixer.github.io/tree/master/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 

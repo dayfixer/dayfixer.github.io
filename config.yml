@@ -1,4 +1,4 @@
-baseURL: "https://dayfixer.github.io/"
+baseURL: "http://dev.dayfixer.cn/"
 title: Dayfixer
 paginate: 5
 theme: PaperMod
